@@ -1,8 +1,8 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8">
-<title>凤凰平台注册地址</title>
+
 </head>
 
 <body>
