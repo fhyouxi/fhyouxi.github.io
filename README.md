@@ -1,9 +1,4 @@
-  <tr>
-      <td>1024最新地址【8-1日】|</td>
-      <td><a href="http://cc.cbcb.us/" target="_blank" >http://cc.cbcb.us</a>|</td>
-      <td><a href="http://aa.dety.men/" target="_blank" >http://aa.dety.men</a>|</td>
-      <td><a href="http://cl.flexui.win/" target="_blank" >http://cl.flexui.win</a>|</td>
-    </tr>
+
     
 <html>
 <head>
@@ -12,6 +7,14 @@
 </head>
 
 <body>
+  
+    <tr>
+      <td>1024最新地址【8-1日】|</td>
+      <td><a href="http://cc.cbcb.us/" target="_blank" >http://cc.cbcb.us</a>|</td>
+      <td><a href="http://aa.dety.men/" target="_blank" >http://aa.dety.men</a>|</td>
+      <td><a href="http://cl.flexui.win/" target="_blank" >http://cl.flexui.win</a>|</td>
+    </tr>
+    <hr >
 <p>凤凰时时彩平台注册地址【注册送18元现金红包，可提现】</p>
 <p><a href="http://www.fh.game/register/?id=11813570&amp;exp=1843549791396&amp;pid=8008100&amp;token=40c4"><strong>注册地址一</strong></a></p>
 <p><a href="https://www.ph158nb.com/register/?id=11813570&amp;exp=1843549791396&amp;pid=8008100&amp;token=40c4"><strong>注册地址二</strong></a></p>
