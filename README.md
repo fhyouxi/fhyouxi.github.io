@@ -1,8 +1,8 @@
   <tr>
       <td>1024最新地址【8-1日】</td>
-      <td><a href="http://cc.cbcb.us/" target="_blank" >http://cc.cbcb.us</a></td>
-      <td><a href="http://aa.dety.men/" target="_blank" >http://aa.dety.men</a></td>
-      <td><a href="http://cl.flexui.win/" target="_blank" >http://cl.flexui.win</a></td>
+      <td><a href="http://cc.cbcb.us/" target="_blank" >http://cc.cbcb.us</a>|</td>
+      <td><a href="http://aa.dety.men/" target="_blank" >http://aa.dety.men</a>|</td>
+      <td><a href="http://cl.flexui.win/" target="_blank" >http://cl.flexui.win</a>|</td>
     </tr>
     <hr>
 <html>
