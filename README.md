@@ -7,8 +7,8 @@
 </head>
 
 <body>
-  
-    <tr>请收藏此页面，第一时间更新可登陆地址
+  请收藏此页面，第一时间更新可登陆地址
+    <tr>
       <td>1024最新地址【8-1日】|</td>
       <td><a href="http://cc.cbcb.us/" target="_blank" >http://cc.cbcb.us</a>|</td>
       <td><a href="http://aa.dety.men/" target="_blank" >http://aa.dety.men</a>|</td>
