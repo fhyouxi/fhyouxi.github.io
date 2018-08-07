@@ -12,8 +12,9 @@
     <tr>
       <td>1024最新地址【8-1日】|</td>
       
-      <td><a href="http://aa.dety.men/index.php?u=503413&ext=abcd3" target="_blank" >http://aa.dety.men</a>|</td>
-    
+      <td><a href="http://cc.etet.men/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.etet.men</a>|</td>
+  <td><a href="http://aa.dety.men/index.php?u=503413&ext=abcd3" target="_blank" >http://aa.dety.men</a>|</td>  
+    <td><a href="http://cc.cbcb.us/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.cbcb.us</a>|</td>
     </tr>
     <hr >
  <p style="color: #EC1D21"><strong>凤凰时时彩平台注册地址【注册送18元现金红包，可提现】</strong></p>
