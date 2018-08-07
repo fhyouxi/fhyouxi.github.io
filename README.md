@@ -14,10 +14,10 @@
       
   <td><a href="http://cc.etet.men/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.etet.men</a>|</td>
 
-    </tr>
-    <hr >
+   </tr>
+   <hr >
  <p style="color: #EC1D21"><strong>凤凰时时彩平台注册地址【注册送18元现金红包，可提现】</strong></p>
-<p><a href="http://www.fh.game/register/?id=10755230&exp=1849038792683&pid=8008100&token=07bf"><strong>注册地址一</strong></a></p>
+<p><a href="https://www.fh.game/register/?id=10755230&exp=1849038792683&pid=8008100&token=07bf"><strong>注册地址一</strong></a></p>
 <p><a href="https://www.ph158nb.com/register/?id=10755230&exp=1849038792683&pid=8008100&token=07bf"><strong>注册地址二</strong></a></p>
 <p>（翻.·墙的同学，注册和登陆凤凰平台请关掉翻·.墙软件。）</p>
     <hr >
