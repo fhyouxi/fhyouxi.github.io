@@ -10,9 +10,9 @@
   请【 Ctrl + D】收藏此页面，第一时间更新可登陆地址
     <br>
     <tr>
-      <td>1024最新地址【8-1日】|</td>
+      <td>1024最新地址【8-6日】|</td>
       
-      <td><a href="http://cc.etet.men/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.etet.men</a>|</td>
+  <td><a href="http://cc.etet.men/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.etet.men</a>|</td>
   <td><a href="http://aa.dety.men/index.php?u=503413&ext=abcd3" target="_blank" >http://aa.dety.men</a>|</td>  
     <td><a href="http://cc.cbcb.us/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.cbcb.us</a>|</td>
     </tr>
