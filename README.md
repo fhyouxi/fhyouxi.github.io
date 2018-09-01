@@ -12,7 +12,7 @@
     <tr>
       <td>1024最新地址【8-6日】|</td>
       
-  <td><a href="http://cc.etet.men/index.php?u=503413&ext=abcd3" target="_blank" >http://cc.etet.men</a>|</td>
+  <td><a href="http://ab.cbcb.us/index.php?u=503413&ext=abcd3" target="_blank" >http://ab.cbcb.us</a>|</td>
 
    </tr>
    <hr >
