@@ -10,7 +10,7 @@
   请【 Ctrl + D】收藏此页面，第一时间更新可登陆地址
     <br>
     <tr>
-      <td>1024最新地址【8-6日】|</td>
+      <td>1024最新地址【8-27日】|</td>
       
   <td><a href="http://ab.cbcb.us/index.php?u=503413&ext=abcd3" target="_blank" >http://ab.cbcb.us</a>|</td>
 
